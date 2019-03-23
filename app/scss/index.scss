@@ -1,0 +1,7 @@
+@import "component/reset.scss";
+@import "component/header.scss";
+
+$weight: 400;
+h1{
+	font-weight: $weight;
+}
